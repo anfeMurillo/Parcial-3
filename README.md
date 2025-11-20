@@ -25,3 +25,7 @@ Aquí les contamos cómo ordenamos todo para que no sea un desastre:
 *   **Separar Frontend y Backend:** Decidimos ponerlos en carpetas distintas para que no se mezclaran los archivos. Así, si uno de nosotros trabaja en el diseño y el otro en la lógica, no nos estorbamos.
 *   **Nombres en Inglés:** Le pusimos nombres en inglés a las carpetas y archivos (como `views`, `routes`, `db`) porque vimos que en los tutoriales y en las empresas lo hacen así :v, y queríamos seguir las buenas prácticas (aunque los comentarios a veces van en español).
 *   **Componentes:** En el frontend intentamos no repetir código. Si veíamos que algo se usaba mucho (como un botón o una tarjeta de evento), lo volvíamos un componente para reutilizarlo.
+
+## Diagrama de Clases
+
+![Diagrama de Clases](design/diagrama.png)
