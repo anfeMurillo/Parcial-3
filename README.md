@@ -3,6 +3,9 @@
 **Integrantes:**
 - Andrés Hurtado
 - Andrés Díaz
+## Video de youtube
+
+https://youtu.be/Sm7ORVmx_no
 
 ## ¿Cómo organizamos el código? (Estructura)
 
